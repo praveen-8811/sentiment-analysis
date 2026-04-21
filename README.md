@@ -67,7 +67,7 @@ Follow these steps to get the project running locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis.git
+git clone https://github.com/praveen-8811/sentiment-analysis.git
 cd sentiment-analysis
 ```
 
